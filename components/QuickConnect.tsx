@@ -30,7 +30,7 @@ const links = [
   {
     id: "dock-resume",
     label: "Resume",
-    href: "https://drive.google.com/file/d/1uTywNPm2aZkbuSo21n5UX_EiZcb5nWP8/view?usp=sharing", // ← replace with your hosted PDF URL
+    href: "https://drive.google.com/file/d/1EqShk5jAcJ8GrMZNUYyyIM9H14AMaOg4/view?usp=sharing", // ← replace with your hosted PDF URL
     icon: FileText,
     external: true,
   },
